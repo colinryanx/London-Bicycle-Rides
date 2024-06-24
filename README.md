@@ -7,7 +7,7 @@ Project idea from [Mo Chen](https://www.youtube.com/@mo-chen)
 ![London Bike Rides](https://github.com/colinryanx/London-Bicycle-Rides/assets/171652558/220984f1-4660-4415-9968-4888b58524c1)
 
 ## Problem Statement
-- City planners and transportation agencies are increasingly promoting bicycle usage as a sustainable mode of transportation in London. However, without a clear understanding of usage patterns and trends, it is challenging to optimize infrastructure, allocate resources efficiently, and develop strategies to encourage more people to use bicycles. There is a need for a comprehensive analysis of London's bicycle ride data from 2015 to 2016 to identify usage trends and understand the factors influencing bicycle rides.
+City planners and transportation agencies are increasingly promoting bicycle usage as a sustainable mode of transportation in London. However, without a clear understanding of usage patterns and trends, it is challenging to optimize infrastructure, allocate resources efficiently, and develop strategies to encourage more people to use bicycles. There is a need for a comprehensive analysis of London's bicycle ride data from 2015 to 2016 to identify usage trends and understand the factors influencing bicycle rides.
 
 ## Objective
 The purpose is to analyze and visualize the trend of bicycle rides from 2015 to 2016. This analysis aims to:
