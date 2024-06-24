@@ -2,7 +2,7 @@
 Project idea from [Mo Chen](https://www.youtube.com/@mo-chen)
 
 ## Tools Used for this Project
-- Python: [Code Link](https://github.com/colinryanx/London-Bicycle-Rides/blob/main/Python%20Project%20-%20London%20Bicycle%20Rides.ipynb)
+- Python: [Python Code Link](https://github.com/colinryanx/London-Bicycle-Rides/blob/main/Python%20Project%20-%20London%20Bicycle%20Rides.ipynb)
 - Tableau: [Dashboard Link](https://public.tableau.com/app/profile/colin.ryan.subido/viz/London_Bikes_Project_17187842296680/LondonBikeRides)
 ![London Bike Rides](https://github.com/colinryanx/London-Bicycle-Rides/assets/171652558/220984f1-4660-4415-9968-4888b58524c1)
 
