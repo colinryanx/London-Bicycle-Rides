@@ -6,9 +6,16 @@ Project idea from [Mo Chen](https://www.youtube.com/@mo-chen)
 - Tableau: [Dashboard Link](https://public.tableau.com/app/profile/colin.ryan.subido/viz/London_Bikes_Project_17187842296680/LondonBikeRides)
 ![London Bike Rides](https://github.com/colinryanx/London-Bicycle-Rides/assets/171652558/220984f1-4660-4415-9968-4888b58524c1)
 
+## Problem Statement
+- City planners and transportation agencies are increasingly promoting bicycle usage as a sustainable mode of transportation in London. However, without a clear understanding of usage patterns and trends, it is challenging to optimize infrastructure, allocate resources efficiently, and develop strategies to encourage more people to use bicycles. There is a need for a comprehensive analysis of London's bicycle ride data from 2015 to 2016 to identify usage trends and understand the factors influencing bicycle rides.
 
-## Context
-The purpose is to analyze and visualize the trend of bicycle rides from 2015 to 2016.
+## Objective
+The purpose is to analyze and visualize the trend of bicycle rides from 2015 to 2016. This analysis aims to:
+- Identify patterns and fluctuations in bicycle usage over the two-year period.
+- Determine peak and off-peak times for bicycle rides on a daily, weekly, and monthly basis.
+- Analyze the impact of external factors such as weather conditions, public holidays, and special events on bicycle ride trends.
+  
+By visualizing these trends, the goal is to support city planners, transportation agencies, and bike-sharing companies in making data-driven decisions to optimize bicycle infrastructure, enhance service offerings, and promote sustainable transportation.
 
 ## Metadata:
 - **timestamp** - timestamp field for grouping the data
